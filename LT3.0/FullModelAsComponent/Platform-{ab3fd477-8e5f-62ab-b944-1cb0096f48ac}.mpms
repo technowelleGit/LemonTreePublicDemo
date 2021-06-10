@@ -1,17 +1,17 @@
 ﻿//version: 3 (UM: 10.0.1.0)
-//{"ReadOnly":false,"Name":"Platform","Guid":"{ab3fd477-8e5f-62ab-b944-1cb0096f48ac}","Description":"","Authors":"","Owners":"","ReleaseNotes":"","Copyright":"","Tags":"","Version":"A","Status":0,"Dependencies":[{"name":"Customer B","source":"{ab3fd477-8e5f-62ab-b944-1cb0096f48ac}","target":"{733ce798-403b-4447-b0c3-e0a71b302e69}","versionConstraint":"*","dependencyClass":0}],"ModelPackageInfo":"{16437CA3-CAAA-45e9-BE56-FEB1FB84F131}:47fd1d4bb669a3b11fd9cf59cdfda5efde780d0737208e392c162092df71b07d,{7DA16485-667B-4593-A243-1A2D92C0F302}:d62ef61aa1cc5950ded3c4cd07f00aafe452f66a82bb0e0de8740a20f2d2d333,{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}:d8fa53d45b5ea3cb1181fe5036a15c2e881385065e31fbf492ef4e09947f19a3"}
+//{"ReadOnly":false,"Name":"Platform","Guid":"{ab3fd477-8e5f-62ab-b944-1cb0096f48ac}","Description":"","Authors":"","Owners":"","ReleaseNotes":"","Copyright":"","Tags":"","Version":"A","Status":0,"Dependencies":[{"name":"Customer B","source":"{ab3fd477-8e5f-62ab-b944-1cb0096f48ac}","target":"{733ce798-403b-4447-b0c3-e0a71b302e69}","versionConstraint":"*","dependencyClass":0}],"ModelPackageInfo":"{16437CA3-CAAA-45e9-BE56-FEB1FB84F131}:47fd1d4bb669a3b11fd9cf59cdfda5efde780d0737208e392c162092df71b07d,{7DA16485-667B-4593-A243-1A2D92C0F302}:d62ef61aa1cc5950ded3c4cd07f00aafe452f66a82bb0e0de8740a20f2d2d333,{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}:41d72903c9c10f61d638666a5cadfe325a599daa23d6ab6ff6b27bfbcd0dc994"}
 //format: Raw
 {
  "version": "10.0.1.0",
  "objects": [
   {
-   "oid": "zlCDk9LZUnxU49sr581rFQO9lcQPEqYDHR2yCi+DE30=",
+   "oid": "9D0B3coO2QSX6nSzBBNnny7TWccok+YL3NlnqkwxSvw=",
    "id": "{9e250640-ff1a-6766-61d0-8a4fd2723678}",
    "meta": [],
    "prop": [],
    "sub": [
-    "MJU9yOVWQsq/3AjKwDjKwy53nlMECLTB7fU4zud29WI=",
     "l9uGrJ9FJevidG2UhZV4dRVlm+rXTZdFuJKUxDOGxZg=",
+    "opHoagbWasAMoIAv1pnR3gskwRELRyIvBbdHeVbtOBA=",
     "pxdsFc6k9TlCpJzev0BnYZLsS6Eb8u68x5QKYVGaLXA="]},
   {
    "oid": "l9uGrJ9FJevidG2UhZV4dRVlm+rXTZdFuJKUxDOGxZg=",
@@ -43,7 +43,7 @@
     "3KIWo0Ck2U5NDjdP6xvs+UJq4Cx5KbtIEezMWgbJhJM=",
     "8eAL7X45CTrmb5sC7VUEom9owqarAWHEoeZM3E31nqk="]},
   {
-   "oid": "MJU9yOVWQsq/3AjKwDjKwy53nlMECLTB7fU4zud29WI=",
+   "oid": "opHoagbWasAMoIAv1pnR3gskwRELRyIvBbdHeVbtOBA=",
    "id": "{EA1D0A51-F03B-4840-ACBA-B41F592304EE}",
    "meta": [
     ["+UT","Model"]],
@@ -55,10 +55,10 @@
     ["+M","+V","Public"]],
    "parent": "{9e250640-ff1a-6766-61d0-8a4fd2723678}",
    "sub": [
-    "U84bBdjId6cqTgGtu8JOCGzd8dyRy7EyGiUN0/aTKCk=",
-    "rbPdVAZM7U0cneaq3gZMDkFps4NkLTCZV2bWatz/A0k=",
+    "nkPnJWXowhdZzG93ijUCrdcALMcmL7zCrpuhLmpXndY=",
     "x+7GovAa6X08CoO7lnrpiHSL7vE8T+pu51/XStwtnME=",
-    "zQ60kxI8M3v0f8Vq4WDvBRl3cGCCpwbNG60AsjQ8T/4="]},
+    "zQ60kxI8M3v0f8Vq4WDvBRl3cGCCpwbNG60AsjQ8T/4=",
+    "0YlRejO9d263AlO2d1n3BefcDpvnNlmFhwQM12KZyKM="]},
   {
    "oid": "pxdsFc6k9TlCpJzev0BnYZLsS6Eb8u68x5QKYVGaLXA=",
    "id": "{f3b8907c-94c7-95a5-9469-27e9364672a7}",
@@ -258,7 +258,7 @@
     "mjOmcnWs1KXZeeX8/0x/oyT7SDc0kDjweUawOckeIZg=",
     "8YD3SbpET7cwpN3SRgmGyrf0DjXxcAcFICRHVuRopX4="]},
   {
-   "oid": "rbPdVAZM7U0cneaq3gZMDkFps4NkLTCZV2bWatz/A0k=",
+   "oid": "0YlRejO9d263AlO2d1n3BefcDpvnNlmFhwQM12KZyKM=",
    "id": "{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}",
    "meta": [
     ["+ET","t_package"],
@@ -287,11 +287,11 @@
     ["Element Metadata 1.0::ModifiedDate","2021-04-12T12:29:51Z"]],
    "parent": "{EA1D0A51-F03B-4840-ACBA-B41F592304EE}",
    "sub": [
-    "NyUSwh2Lw9hYGzJizVbH6FvqhZmq3PlQKN3sK5RyHp4=",
-    "tPK2Cns47effYwjTKl0RZ7LI1XDvZCXafBydNnwr5A0=",
-    "7+L8VDDNeTvseW3xNUamvjx6HGzzOtKEv9UAC+yPaKc="]},
+    "IdvZ5oSPQNTty7amsftisT7cfBjfY/kG5tjetR7lEQE=",
+    "IqdmRY+eFz5lwe1IXP3xgca5PiT/0h+cv4nUj0ZSOQo=",
+    "2CAYfbnCYs70e/E5IQ6mp6UzjzQ3nl/H940NDUnyojM="]},
   {
-   "oid": "U84bBdjId6cqTgGtu8JOCGzd8dyRy7EyGiUN0/aTKCk=",
+   "oid": "nkPnJWXowhdZzG93ijUCrdcALMcmL7zCrpuhLmpXndY=",
    "id": "{bf65f14e-b093-45d5-90a9-d3315db91057}",
    "meta": [
     ["+ET","t_package"],
@@ -328,7 +328,7 @@
     ["{mpms spec+package}","PrimaryStereotype",16],
     ["{mpms spec+package}","Stereotype",8]],
    "sub": [
-    "HbOdF047o5mD5zBoNelmjGFHsTU4i9Gce7OPApS/PmQ=",
+    "OYhwMIUIezRZ0MxoFj4CXfNPwhqcs8vJRgalMH/z98o=",
     "wwyZf4qQDj5/tcqycj7a5BAcnM6Ws6JO9VKsgNMbLho=",
     "xoRkwWvq85n3JD9j30jBpTJYOmZyuCrIiEagZBIvoog=",
     "4M6EDDQIVXPbv3UVPnUBwAjNT7LHWX4t00oDeXA3njE=",
@@ -623,7 +623,7 @@
    "ref": [
     ["{EA Specifics 1.0::feature}","Stereotype",8]]},
   {
-   "oid": "tPK2Cns47effYwjTKl0RZ7LI1XDvZCXafBydNnwr5A0=",
+   "oid": "IdvZ5oSPQNTty7amsftisT7cfBjfY/kG5tjetR7lEQE=",
    "id": "{837A5F20-9181-4596-A7C9-92C7D2E65EF9}",
    "meta": [
     ["+ET","t_object"],
@@ -639,7 +639,7 @@
     ["+M","+ABS?","false"],
     ["+M","+ACT?","false"],
     ["+M","+FS?","false"],
-    ["+M","+N","Platform Actor1"],
+    ["+M","+N","Platform User Actor1"],
     ["+M","+V","Public"]],
    "tval": [
     ["EA Specifics 1.0::Author","dsiegl"],
@@ -657,12 +657,12 @@
     ["EA Specifics 1.0::StyleEx",""],
     ["EA Specifics 1.0::Version","1.0"],
     ["Element Metadata 1.0::CreatedDate","2021-04-12T12:31:56Z"],
-    ["Element Metadata 1.0::ModifiedDate","2021-04-12T12:32:08Z"]],
+    ["Element Metadata 1.0::ModifiedDate","2021-06-10T09:12:05Z"]],
    "parent": "{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}",
    "sub": [
     "ezWUnNa0oo4NY1VZpsZfcGNOg5b5IHefJuioBk16o88="]},
   {
-   "oid": "NyUSwh2Lw9hYGzJizVbH6FvqhZmq3PlQKN3sK5RyHp4=",
+   "oid": "IqdmRY+eFz5lwe1IXP3xgca5PiT/0h+cv4nUj0ZSOQo=",
    "id": "{85A2F2FF-2018-49bd-B10E-5F72BC0E3CA7}",
    "meta": [
     ["+ET","t_object"],
@@ -673,7 +673,7 @@
     ["+UT","UseCase"]],
    "prop": [
     ["+X","+A",""],
-    ["+M","+D",""],
+    ["+M","+D","This Use Case is altered\r\n"],
     ["+X","+CD?","false"],
     ["+M","+ABS?","false"],
     ["+M","+ACT?","false"],
@@ -696,12 +696,12 @@
     ["EA Specifics 1.0::StyleEx",""],
     ["EA Specifics 1.0::Version","1.0"],
     ["Element Metadata 1.0::CreatedDate","2021-04-12T12:31:53Z"],
-    ["Element Metadata 1.0::ModifiedDate","2021-04-12T12:32:26Z"]],
+    ["Element Metadata 1.0::ModifiedDate","2021-06-10T09:11:49Z"]],
    "parent": "{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}",
    "sub": [
     "3DYzMIr1UMEcO0WF9O0yFJC9MhUNFXIGeSHLLlXGTNI="]},
   {
-   "oid": "7+L8VDDNeTvseW3xNUamvjx6HGzzOtKEv9UAC+yPaKc=",
+   "oid": "2CAYfbnCYs70e/E5IQ6mp6UzjzQ3nl/H940NDUnyojM=",
    "id": "{D63AC36D-935A-41c0-846C-C550DDA2573F}",
    "meta": [
     ["Diagram_Type","Use Case"],
@@ -733,7 +733,7 @@
     ["EA Specifics 1.0::Swimlanes","locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=1;ufh=0;hh=0;cls=0;bw=0;hli=0;bro=0;"],
     ["EA Specifics 1.0::Version","1.0"],
     ["Element Metadata 1.0::CreatedDate","2021-04-12T12:31:34Z"],
-    ["Element Metadata 1.0::ModifiedDate","2021-04-12T12:32:30Z"]],
+    ["Element Metadata 1.0::ModifiedDate","2021-06-10T09:12:17Z"]],
    "parent": "{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}",
    "sub": [
     "B/oOtevMwVJaOc4x3azA2+VNPMiXV44bpmGk3jWC/co=",
@@ -876,7 +876,7 @@
     "vILPtORMS7I5c0yPH+20Aoew5kLUSt6rxVaHRYDkQj0=",
     "7LKvHTK7N/Q4g3tL/c3YLpa544jXM9CBgBwgA5cp3vg="]},
   {
-   "oid": "HbOdF047o5mD5zBoNelmjGFHsTU4i9Gce7OPApS/PmQ=",
+   "oid": "OYhwMIUIezRZ0MxoFj4CXfNPwhqcs8vJRgalMH/z98o=",
    "id": "{9aada63f-4742-c20d-e0ad-7f02c3f1b14f}",
    "meta": [
     ["+ET","t_object"],
@@ -918,6 +918,7 @@
     ["{mpms spec metadata+class}","Stereotype",8]],
    "sub": [
     "MX6NjJqVRe/ShVgx1Y2pdGR3kmzSlEIsbIsOsSinvNI=",
+    "UvOBB058FY4srvsmOdZyir0i9x7yvq25tkPr0HE7CkU=",
     "XLlQyAAvIDxjHtADs6yjclGfvfO7YHNEJbof0y/fMAs=",
     "XMb37HT9qWerm6Dhk0sLTCY3WlsPPeHoz+9QoLp3Z6Q=",
     "cmT1J7D8TjsSNU8iAZWw4i7qN5wMhABZRX4wv1WWIUo=",
@@ -927,7 +928,6 @@
     "iMObT7uJislp1qOVe7B2HNIufQLiOZJwAgk42ymSPkI=",
     "lCviiBkTwbpbLE445ld8AbKvP9ntrEoxVdsojSBim7Y=",
     "tvh1Z/hKQpQpljN75pWSUR1rvr84Yr4fa/eXvJPzXK4=",
-    "/oD4LFZ4p3IgihjNT9gwj2Kq2IB7g26UIEH6SUKFwVs=",
     "/6Cx2gx0fVIzKN/3LtUJ5nkrlFSd6gbj/kEkLbs8mSs="]},
   {
    "oid": "wwyZf4qQDj5/tcqycj7a5BAcnM6Ws6JO9VKsgNMbLho=",
@@ -1956,7 +1956,7 @@
     ["EA Specifics 1.0::TypeString","String"]],
    "parent": "{9aada63f-4742-c20d-e0ad-7f02c3f1b14f}"},
   {
-   "oid": "/oD4LFZ4p3IgihjNT9gwj2Kq2IB7g26UIEH6SUKFwVs=",
+   "oid": "UvOBB058FY4srvsmOdZyir0i9x7yvq25tkPr0HE7CkU=",
    "id": "{d216b5d9-0691-2bc5-07ab-b49ba9ac6f19}",
    "meta": [
     ["+ET","t_attribute"],
@@ -1966,7 +1966,7 @@
    "prop": [
     ["+M","AggregationKind","None"],
     ["+X","+A",""],
-    ["+M","DefaultValue","{16437CA3-CAAA-45e9-BE56-FEB1FB84F131}:47fd1d4bb669a3b11fd9cf59cdfda5efde780d0737208e392c162092df71b07d,{7DA16485-667B-4593-A243-1A2D92C0F302}:d62ef61aa1cc5950ded3c4cd07f00aafe452f66a82bb0e0de8740a20f2d2d333,{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}:d8fa53d45b5ea3cb1181fe5036a15c2e881385065e31fbf492ef4e09947f19a3"],
+    ["+M","DefaultValue","{16437CA3-CAAA-45e9-BE56-FEB1FB84F131}:47fd1d4bb669a3b11fd9cf59cdfda5efde780d0737208e392c162092df71b07d,{7DA16485-667B-4593-A243-1A2D92C0F302}:d62ef61aa1cc5950ded3c4cd07f00aafe452f66a82bb0e0de8740a20f2d2d333,{85146717-7A5A-4f2c-8ED3-ADAB0D708CAA}:41d72903c9c10f61d638666a5cadfe325a599daa23d6ab6ff6b27bfbcd0dc994"],
     ["+M","+D",""],
     ["+X","IsID","false"],
     ["+M","IsNavigable","false"],
